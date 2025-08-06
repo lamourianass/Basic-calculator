@@ -44,3 +44,8 @@ button:hover,
 button:focus {
   background-color: #ddd;
 }
+
+.clear {
+  background-color: #ff4136;
+  color: #fff;
+}
