@@ -55,3 +55,8 @@ button:focus {
   background-color: #fff;
   color: #333;
 }
+
+.operator {
+  background-color: #0074d9;
+  color: #fff;
+}
