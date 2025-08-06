@@ -1,5 +1,5 @@
 const buttonsEl = document.querySelectorAll("button")
-
+const inputFieldEl = document.getElementById("result")
 
 
 for (let i = 0; i < buttonsEl.length; i++) {
@@ -16,13 +16,13 @@ for (let i = 0; i < buttonsEl.length; i++) {
 }
 
 function clearResult() {
-
+  inputFieldEl.value = ""
 }
 
 function calculateResult() {
 
 }
 
-function appendValue() {
-
+function appendValue(buttonValue) {
+  inputFieldEl.value += buttonValue
 }
