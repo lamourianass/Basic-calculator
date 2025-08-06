@@ -60,3 +60,9 @@ button:focus {
   background-color: #0074d9;
   color: #fff;
 }
+
+.equals {
+  background-color: #01ff70;
+  grid-row: span 3;
+  color: #fff;
+}
