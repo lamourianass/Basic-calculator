@@ -20,7 +20,7 @@ function clearResult() {
 }
 
 function calculateResult() {
-  
+  inputFieldEl.value = eval(inputFieldEl.value)
 }
 
 function appendValue(buttonValue) {
