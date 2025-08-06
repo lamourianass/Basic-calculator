@@ -49,3 +49,9 @@ button:focus {
   background-color: #ff4136;
   color: #fff;
 }
+
+.number,
+.decimal {
+  background-color: #fff;
+  color: #333;
+}
