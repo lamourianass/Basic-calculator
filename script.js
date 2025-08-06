@@ -20,7 +20,7 @@ function clearResult() {
 }
 
 function calculateResult() {
-
+  
 }
 
 function appendValue(buttonValue) {
